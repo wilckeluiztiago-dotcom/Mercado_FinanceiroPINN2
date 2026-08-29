@@ -1,0 +1,1 @@
+"""Configuração – Opções Americanas – Inequação Variacional e Fronteira Livre\nAutor: Luiz Tiago Wilcke – Capítulo 4"""\n\nfrom dataclasses import dataclass\n\n@dataclass\nclass Config:\n    # Parâmetros específicos do modelo – ver Capítulo correspondente\n    pass\n

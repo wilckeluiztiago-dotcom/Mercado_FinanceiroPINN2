@@ -1,0 +1,1 @@
+"""Configuração – Volatilidade Local de Dupire – Problema Inverso\nAutor: Luiz Tiago Wilcke – Capítulo 9"""\n\nfrom dataclasses import dataclass\n\n@dataclass\nclass Config:\n    # Parâmetros específicos do modelo – ver Capítulo correspondente\n    pass\n

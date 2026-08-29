@@ -1,0 +1,1 @@
+"""Configuração – Modelo CIR de Taxa de Juros e Títulos Zero-Cupom\nAutor: Luiz Tiago Wilcke – Capítulo 7"""\n\nfrom dataclasses import dataclass\n\n@dataclass\nclass Config:\n    # Parâmetros específicos do modelo – ver Capítulo correspondente\n    pass\n

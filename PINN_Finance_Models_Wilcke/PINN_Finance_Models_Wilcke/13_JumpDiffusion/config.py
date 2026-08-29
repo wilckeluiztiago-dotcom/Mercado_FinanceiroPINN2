@@ -1,0 +1,1 @@
+"""Configuração – Salto-Difusão de Merton – PIDE\nAutor: Luiz Tiago Wilcke – Capítulo 17"""\n\nfrom dataclasses import dataclass\n\n@dataclass\nclass Config:\n    # Parâmetros específicos do modelo – ver Capítulo correspondente\n    pass\n

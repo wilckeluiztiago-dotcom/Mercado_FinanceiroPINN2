@@ -1,0 +1,1 @@
+"""Configuração – Jogos de Campo Médio (MFG)\nAutor: Luiz Tiago Wilcke – Capítulos 11 e 23"""\n\nfrom dataclasses import dataclass\n\n@dataclass\nclass Config:\n    # Parâmetros específicos do modelo – ver Capítulo correspondente\n    pass\n

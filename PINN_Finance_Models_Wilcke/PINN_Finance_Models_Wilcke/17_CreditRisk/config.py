@@ -1,0 +1,1 @@
+# 17_CreditRisk – Placeholder completo baseado no livro de Luiz Tiago Wilcke\n# Implementar residual da PDE conforme o capítulo correspondente.\n

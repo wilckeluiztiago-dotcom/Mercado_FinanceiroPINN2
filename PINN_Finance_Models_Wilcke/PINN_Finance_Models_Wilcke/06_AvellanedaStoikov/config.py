@@ -1,0 +1,1 @@
+"""Configuração – Market Making Avellaneda-Stoikov + Fokker-Planck\nAutor: Luiz Tiago Wilcke – Capítulo 8"""\n\nfrom dataclasses import dataclass\n\n@dataclass\nclass Config:\n    # Parâmetros específicos do modelo – ver Capítulo correspondente\n    pass\n

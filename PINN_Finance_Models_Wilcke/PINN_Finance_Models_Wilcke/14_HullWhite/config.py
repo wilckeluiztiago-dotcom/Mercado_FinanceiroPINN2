@@ -1,0 +1,1 @@
+"""Configuração – Modelo de Hull-White e Calibração Dinâmica\nAutor: Luiz Tiago Wilcke – Capítulo 18"""\n\nfrom dataclasses import dataclass\n\n@dataclass\nclass Config:\n    # Parâmetros específicos do modelo – ver Capítulo correspondente\n    pass\n
