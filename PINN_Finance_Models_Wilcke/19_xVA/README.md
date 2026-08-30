@@ -1,1 +1,9 @@
-# 19_xVA – Implementação completa baseada em Luiz Tiago Wilcke\n# Ver Capítulo correspondente para a EDP e residual.\nimport torch\nimport torch.nn as nn\n\nclass PINN(nn.Module):\n    def __init__(self):\n        super().__init__()\n        self.net = nn.Sequential(nn.Linear(2,128), nn.Tanh(), nn.Linear(128,128), nn.Tanh(), nn.Linear(128,1))\n    def forward(self, x):\n        return self.net(x)\n
+# xVA Nonlinear
+
+Inspirado no livro de Luiz Tiago Wilcke (Cap. 39).
+
+CVA/DVA/FVA com fonte não-linear.
+
+```bash
+python train.py
+```
